@@ -1,0 +1,245 @@
+
+.navigation {
+background: indianred;
+padding: 1.4em 3em;
+}
+
+
+.nav-link {
+font-size: 1.3rem;
+font-weight: 300;
+}
+
+
+.nav-link:not(:last-child) {
+margin-right: 6em;
+}
+
+
+.jumbotron {
+background: darkred;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+border-radius: initial;
+margin-top: 5.5em;
+}
+
+
+.apply-button {
+border: none;
+background: lightpink;
+color: black;
+padding: 0 1.2em;
+border-radius: 1em;
+}
+
+
+.apply-button:hover {
+background: #AF9FFF;
+}
+
+
+.apply-button-jumbotron {
+border: none;
+background: lightpink;
+color: black;
+padding: 1em 1.6em;
+border-radius: 1em;
+}
+
+
+.apply-button-jumbotron:hover {
+background: #AF9FFF;
+}
+
+
+.apply-button-booking {
+border: none;
+background: Blue;
+color: white;
+padding: 1em 1.6em;
+border-radius: 1em;
+}
+
+
+.apply-button-booking:hover {
+background: #AF9FFF;
+}
+
+
+.card-emphasize {
+color: #AF9FFF;
+}
+
+
+.headphone-image {
+transition: .5s ease-in-out;
+}
+
+
+.headphone-image:hover {
+transform: scale(.99);
+}
+
+
+.card-style {
+padding: 12em 3em 0;
+}
+
+
+.apply-button-learnmore {
+border: none;
+color: darkblue;
+font-size: 1.2rem;
+background: none;
+}
+
+
+.apply-button-learnmore:hover {
+/* background-color: initial; */
+text-decoration: underline;
+background: #AF9FFF;
+}
+
+
+.second-section {
+background: blue;
+padding: 8em 4em;
+}
+
+
+.interactive {
+font-size: 12rem;
+font-weight: 700;
+line-height: 1;
+}
+
+
+.image-video {
+margin-left: -.28em;
+}
+
+
+.image-video-second {
+margin-left: -.1em;
+z-index: 1;
+position: relative;
+}
+
+
+.ns {
+margin-left: -.3em;
+z-index: -1;
+}
+
+
+.second-section .lead {
+padding-bottom: 4em;
+}
+
+
+.second-section button {
+margin-bottom: 11em;
+}
+
+
+.card-course-benefits {
+border-radius: 2em;
+background: black;
+}
+
+
+.card-img {
+border-radius: 2em;
+transition: .5s ease;
+}
+
+
+.card-img:hover {
+transform: scale(1.02);
+}
+
+
+/* .card-body {
+background: black;
+} */
+
+
+.number {
+color: black;
+}
+
+
+.third-section {
+padding: 8em 0;
+}
+
+
+.lead-text {
+font-size: 6rem;
+padding-top: .8em;
+}
+
+
+.testimonial-header {
+font-size: 4rem;
+padding-top: 5em;
+}
+
+
+.testimonial-section {
+padding-top: 12em;
+}
+
+
+.testimonial-card {
+width: 16rem;
+border-radius: 4em;
+height: 32rem;
+background-color: #f4f3ec;
+border: none;
+transition: .5s ease;
+}
+
+
+.testimonial-card:hover {
+transform: scale(1.02);
+}
+
+
+.testimonial-img {
+width: 80px;
+height: 80px;
+margin: 1em 1em;
+}
+
+
+.testimonial-text {
+padding-top: 3em;
+}
+
+
+.accordion-header {
+font-size: 6rem;
+padding: 3em 0 1em 0;
+}
+
+
+.accordion-block {
+font-size: 2rem;
+color: #AF9FFF;
+}
+
+
+.icon {
+font-size: 1.5rem;
+margin-right: 1em;
+}
+
+
+footer {
+background: rebeccapurple;
+padding: 2em 4em;
+}
